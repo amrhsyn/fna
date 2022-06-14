@@ -16,8 +16,9 @@ A sample project contains a list and map .
 - Mockwebserver
 
 #  Screenshots
-
+First page:
 <img src="https://github.com/amrhsyn/free-now-assignment/blob/main/screenshots/s1.png" width="25%">
+Second page:
 <img src="https://github.com/amrhsyn/free-now-assignment/blob/main/screenshots/s2.png" width="25%">
 
 #  Module Design
