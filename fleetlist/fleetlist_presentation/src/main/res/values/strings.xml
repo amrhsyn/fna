@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_something_went_wrong">Oops, something went wrong!</string>
+    <string name="check_on_the_map">Check on the map</string>
+    <string name="taxi_icon_content_description">taxi</string>
+    <string name="pooling_icon_content_description">pooling</string>
+</resources>

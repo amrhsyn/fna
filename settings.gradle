@@ -1,0 +1,24 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "free-now-assignment"
+include ':app'
+include ':fleetlist'
+include ':fleetlist:fleetlist_presentation'
+include ':fleetlist:fleetlist_domain'
+include ':fleetlist:fleetlist_data'
+include ':fleetmap'
+include ':fleetmap:fleetmap_presentation'
+include ':core'
+include ':core_ui'

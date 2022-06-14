@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">free-now-assignment</string>
+    <string name="fleet_list_screen_title">Fleet List</string>
+    <string name="fleet_map_screen_title">Fleet Map</string>
+    <string name="top_bar_back_content_description">Back</string>
+    <string name="navigation_back_button_testing_tag">back_btn</string>
+</resources>
