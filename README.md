@@ -17,9 +17,9 @@ A sample project contains a list(list of the cars in an area) and a detail page(
 
 #  Screenshots
 First page:
-<img src="https://github.com/amrhsyn/fna/screenshots/s1.png" width="25%">
+<img src="https://github.com/amrhsyn/fna/blob/master/screenshots/s1.png" width="25%">
 Second page:
-<img src="https://github.com/amrhsyn/fna/screenshots/s2.png" width="25%">
+<img src="https://github.com/amrhsyn/fna/blob/master/screenshots/s2.png" width="25%">
 
 #  Module Design
 
