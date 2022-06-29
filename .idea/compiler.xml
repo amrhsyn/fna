@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="1.8">
+      <module name="free-now-assignment.app" target="11" />
+      <module name="free-now-assignment.buildSrc" target="11" />
+      <module name="free-now-assignment.buildSrc.main" target="11" />
+      <module name="free-now-assignment.buildSrc.test" target="11" />
+      <module name="free-now-assignment.core_ui" target="11" />
+      <module name="free-now-assignment.fleetlist.fleetlist_data" target="11" />
+      <module name="free-now-assignment.fleetlist.fleetlist_presentation" target="11" />
+      <module name="free-now-assignment.fleetmap.fleetmap_presentation" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

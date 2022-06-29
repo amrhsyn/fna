@@ -39,8 +39,6 @@ dependencies {
     implementation DaggerHilt.hiltAndroid
     implementation AndroidX.annotation
     implementation AndroidX.annotationExperimental
-    implementation AppCenter.analytics
-    implementation AppCenter.crashes
 
     testImplementation Testing.junit4
     testImplementation Testing.junitAndroidExt

@@ -29,20 +29,12 @@ import me.ahch.fleetmap_presentation.FleetMapScreen
 import me.ahch.free_now_assignment.navigation.Argument.FLEET_LIST_ARGUMENT
 import me.ahch.free_now_assignment.navigation.Route
 import me.ahch.free_now_assignment.ui.theme.FreeNowAssignmentTheme
-import com.microsoft.appcenter.AppCenter
-import com.microsoft.appcenter.analytics.Analytics
-import com.microsoft.appcenter.crashes.Crashes
 
 
 @AndroidEntryPoint
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-
-        AppCenter.start(
-            application, "ec2b2d58-a2b4-47d3-95d0-7c28014025db",
-            Analytics::class.java, Crashes::class.java
-        )
 
         setContent {
             FreeNowAssignmentTheme {

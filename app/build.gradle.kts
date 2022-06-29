@@ -67,8 +67,6 @@ dependencies {
     implementation(Compose.viewModelCompose)
     implementation(Compose.activityCompose)
 
-    implementation(AppCenter.analytics)
-    implementation(AppCenter.crashes)
 
     implementation(DaggerHilt.hiltAndroid)
     kapt(DaggerHilt.hiltCompiler)
@@ -83,7 +81,7 @@ dependencies {
     implementation(AndroidX.appCompat)
     implementation(AndroidX.lifecycle)
 
-    implementation(Google.material)
+    implementation(MaterialDesign.material)
 
     implementation(Retrofit.okHttp)
     implementation(Retrofit.retrofit)

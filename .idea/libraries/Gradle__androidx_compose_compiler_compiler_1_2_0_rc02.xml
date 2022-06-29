@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.compose.compiler:compiler:1.2.0-rc02">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.compiler/compiler/1.2.0-rc02/ebf0fab129bb6eb6cd38c4e1030f9af4f533770e/compiler-1.2.0-rc02.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.compiler/compiler/1.2.0-rc02/5b8f86fea035328fc9e8c660773037a3401ce25f/compiler-1.2.0-rc02-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/free-now-assignment.iml" filepath="$PROJECT_DIR$/.idea/modules/free-now-assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/free-now-assignment.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/free-now-assignment.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/free-now-assignment.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/free-now-assignment.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/free-now-assignment.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/free-now-assignment.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/free-now-assignment.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/free-now-assignment.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/free-now-assignment.buildSrc.iml" filepath="$PROJECT_DIR$/.idea/modules/free-now-assignment.buildSrc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/free-now-assignment.buildSrc.main.iml" filepath="$PROJECT_DIR$/.idea/modules/free-now-assignment.buildSrc.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/free-now-assignment.buildSrc.test.iml" filepath="$PROJECT_DIR$/.idea/modules/free-now-assignment.buildSrc.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/free-now-assignment.core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/free-now-assignment.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/free-now-assignment.core.main.iml" filepath="$PROJECT_DIR$/.idea/modules/core/free-now-assignment.core.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/free-now-assignment.core.test.iml" filepath="$PROJECT_DIR$/.idea/modules/core/free-now-assignment.core.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core_ui/free-now-assignment.core_ui.iml" filepath="$PROJECT_DIR$/.idea/modules/core_ui/free-now-assignment.core_ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core_ui/free-now-assignment.core_ui.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/core_ui/free-now-assignment.core_ui.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core_ui/free-now-assignment.core_ui.main.iml" filepath="$PROJECT_DIR$/.idea/modules/core_ui/free-now-assignment.core_ui.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core_ui/free-now-assignment.core_ui.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/core_ui/free-now-assignment.core_ui.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fleetlist/free-now-assignment.fleetlist.iml" filepath="$PROJECT_DIR$/.idea/modules/fleetlist/free-now-assignment.fleetlist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fleetlist/fleetlist_data/free-now-assignment.fleetlist.fleetlist_data.iml" filepath="$PROJECT_DIR$/.idea/modules/fleetlist/fleetlist_data/free-now-assignment.fleetlist.fleetlist_data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fleetlist/fleetlist_data/free-now-assignment.fleetlist.fleetlist_data.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/fleetlist/fleetlist_data/free-now-assignment.fleetlist.fleetlist_data.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fleetlist/fleetlist_data/free-now-assignment.fleetlist.fleetlist_data.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fleetlist/fleetlist_data/free-now-assignment.fleetlist.fleetlist_data.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fleetlist/fleetlist_data/free-now-assignment.fleetlist.fleetlist_data.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/fleetlist/fleetlist_data/free-now-assignment.fleetlist.fleetlist_data.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fleetlist/fleetlist_domain/free-now-assignment.fleetlist.fleetlist_domain.iml" filepath="$PROJECT_DIR$/.idea/modules/fleetlist/fleetlist_domain/free-now-assignment.fleetlist.fleetlist_domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fleetlist/fleetlist_domain/free-now-assignment.fleetlist.fleetlist_domain.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fleetlist/fleetlist_domain/free-now-assignment.fleetlist.fleetlist_domain.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fleetlist/fleetlist_domain/free-now-assignment.fleetlist.fleetlist_domain.test.iml" filepath="$PROJECT_DIR$/.idea/modules/fleetlist/fleetlist_domain/free-now-assignment.fleetlist.fleetlist_domain.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fleetlist/fleetlist_presentation/free-now-assignment.fleetlist.fleetlist_presentation.iml" filepath="$PROJECT_DIR$/.idea/modules/fleetlist/fleetlist_presentation/free-now-assignment.fleetlist.fleetlist_presentation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fleetlist/fleetlist_presentation/free-now-assignment.fleetlist.fleetlist_presentation.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/fleetlist/fleetlist_presentation/free-now-assignment.fleetlist.fleetlist_presentation.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fleetlist/fleetlist_presentation/free-now-assignment.fleetlist.fleetlist_presentation.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fleetlist/fleetlist_presentation/free-now-assignment.fleetlist.fleetlist_presentation.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fleetlist/fleetlist_presentation/free-now-assignment.fleetlist.fleetlist_presentation.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/fleetlist/fleetlist_presentation/free-now-assignment.fleetlist.fleetlist_presentation.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fleetmap/free-now-assignment.fleetmap.iml" filepath="$PROJECT_DIR$/.idea/modules/fleetmap/free-now-assignment.fleetmap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fleetmap/fleetmap_presentation/free-now-assignment.fleetmap.fleetmap_presentation.iml" filepath="$PROJECT_DIR$/.idea/modules/fleetmap/fleetmap_presentation/free-now-assignment.fleetmap.fleetmap_presentation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fleetmap/fleetmap_presentation/free-now-assignment.fleetmap.fleetmap_presentation.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/fleetmap/fleetmap_presentation/free-now-assignment.fleetmap.fleetmap_presentation.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fleetmap/fleetmap_presentation/free-now-assignment.fleetmap.fleetmap_presentation.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fleetmap/fleetmap_presentation/free-now-assignment.fleetmap.fleetmap_presentation.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fleetmap/fleetmap_presentation/free-now-assignment.fleetmap.fleetmap_presentation.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/fleetmap/fleetmap_presentation/free-now-assignment.fleetmap.fleetmap_presentation.unitTest.iml" />
+    </modules>
+  </component>
+</project>
